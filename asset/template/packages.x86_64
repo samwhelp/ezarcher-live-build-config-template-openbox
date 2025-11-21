@@ -369,6 +369,7 @@ system-config-printer
 
 # Openbox
 openbox
+feh
 
 # Xfce
 abiword
